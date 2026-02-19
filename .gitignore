@@ -16,3 +16,8 @@ optimizacion_mesa_ayuda/artifacts/reports/
 
 # OS
 .DS_Store
+
+# Notebooks legacy
+*.ipynb
+analisis_bucles_costosos.txt
+notebook_extracted.py
